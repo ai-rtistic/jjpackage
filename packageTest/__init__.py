@@ -1,3 +1,3 @@
 __all__ = ['packageTest']
 
-print('__init__.py')
+print('run __init__.py')
